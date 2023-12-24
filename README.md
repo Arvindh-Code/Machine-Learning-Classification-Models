@@ -59,6 +59,11 @@ You can customize the script by modifying the following parameters:
 
 The script will output the accuracy of the model on the test set, confusion matrix, and cross-validation scores. These results provide insights into the performance and generalization ability of the model.
 
+## Author
+
+- Aravindh Gopalsamy
+- gopal98aravindh@gmail.com
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
