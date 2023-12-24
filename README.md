@@ -1,9 +1,5 @@
 # Machine-Learning-Classification-Models-using-NBA-Dataset
 
-Sure, I can help you create a README file for your code. A good README file typically includes information about the purpose of the code, how to use it, and any additional details that might be useful for someone trying to understand or work with the code. Here's a basic template you can use and customize for your specific project:
-
----
-
 # NBA Player Position Prediction
 
 ## Overview
